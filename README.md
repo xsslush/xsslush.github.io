@@ -11,4 +11,4 @@ this is my personal website.
 work. i also don't wanna spend lots of time searching for the perfect website<br> 
 i just want to show my work. <b>but i plan to create a better version in the future.</b>
 
-<i>view live:</i> https://lushcries.github.io/
+<i>view live:</i> https://xsslush.github.io/
